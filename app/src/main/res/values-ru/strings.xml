@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Не забудь!</string>
+    <string name="action_clear_history">Очистить историю</string>
+    <string name="action_clear_all">Очистить все</string>
+    <string name="action_clear_notifications">Очистить напоминания</string>
+    <string name="add_remind">Новое Напоминание</string>
+    <string name="complete">Готово</string>
+    <string name="history">История</string>
+    <string name="remove">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="edit_remind">Редактировать напоминание</string>
+    <string name="edit">Редактировать</string>
+    <string name="active">Активные</string>
+    <string name="action_clear">Очистить</string>
+    <string name="done">Готово</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="active_reminders">Напоминания</string>
+    <string name="default_name">По умолчанию</string>
+    <string name="about">О программе</string>
+    <string name="rate_application">Отзыв</string>
+    <string name="all_done">Все готово</string>
+    <string name="enter_some_text">Введите какое-нибудь сообщение</string>
+    <string name="are_you_sure_all_done">Завершить всё?</string>
+    <string name="cancel">Отмена</string>
+    <string name="repeat">Повторить</string>
+    <string name="example_text">Example text. Example text. Example text. Example text. Example text. </string>
+    <string name="example_date">12.12.2016</string>
+    <string name="no_notifications">Нет текущих напоминаний</string>
+    <string name="history_is_empty">История пуста</string>
+    <string name="loading">Загрузка&#8330;</string>
+    <string name="about_text">Если необходимо что-то не забыть, то данная программа позволяет записать текстовое сообщение и оно будет висеть в оповещениях. Есть история и можно быстро добавить напоминание снова</string>
+    <string name="about_other_apps">Другие приложения автора:</string>
+    <string name="loancalculator_id">com.elsoftware.loancalculator</string>
+    <string name="loancalculator_name">Кредитный калькулятор</string>
+    <string name="loancalculator_description">Кредитный калькулятор аннуитетных платежей с досрочным погашением</string>
+</resources>

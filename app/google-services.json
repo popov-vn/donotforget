@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "890458029002",
+    "firebase_url": "https://notificationreminder-2282a.firebaseio.com",
+    "project_id": "notificationreminder-2282a",
+    "storage_bucket": "notificationreminder-2282a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890458029002:android:72083dbdd0bfe28e",
+        "android_client_info": {
+          "package_name": "com.elsoftware.notificationreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890458029002-i3oe5k0aafk9mfq6ukhppjnoo4152na3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elsoftware.notificationreminder",
+            "certificate_hash": "0621452051878FA6975FB61790C65289083F75C2"
+          }
+        },
+        {
+          "client_id": "890458029002-ov6eg3635u2belce6raufini9vhln192.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpLNMYN8bfspkHI_Yyblsp3NbkubyWMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890458029002-ov6eg3635u2belce6raufini9vhln192.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

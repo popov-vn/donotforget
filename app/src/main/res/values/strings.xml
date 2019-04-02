@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Do not forget!</string>
+    <string name="action_clear_history">Clear History</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_clear_notifications">Clear Notifications</string>
+    <string name="add_remind">New Reminder</string>
+    <string name="complete">Complete</string>
+    <string name="done">Done</string>
+    <string name="history">History</string>
+    <string name="remove">Remove</string>
+    <string name="save">Save</string>
+    <string name="edit_remind">Edit Reminder</string>
+    <string name="edit">Edit</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="active">Active</string>
+    <string name="action_clear">Сlear</string>
+    <string name="active_reminders">Reminders</string>
+    <string name="default_name">Default</string>
+    <string name="about">About</string>
+    <string name="rate_application">Rate Application</string>
+    <string name="all_done">All Done</string>
+    <string name="enter_some_text">Enter some text</string>
+    <string name="are_you_sure_all_done">Are you sure what all done?</string>
+    <string name="cancel">Cancel</string>
+    <string name="repeat">Repeat</string>
+    <string name="example_text">Example text. Example text. Example text. Example text. Example text. </string>
+    <string name="example_date">12.12.2016</string>
+    <string name="no_notifications">No active notifications</string>
+    <string name="history_is_empty">History is empty</string>
+    <string name="loading">Loading&#8330;</string>
+    <string name="about_text">Stick reminder on notification bar. Do not forget important things. View history and remind again. Use as simple note</string>
+    <string name="about_other_apps">Other apps form author:</string>
+    <string name="loancalculator_id">com.elsoftware.loancalculator</string>
+    <string name="loancalculator_name">Loan Calculator</string>
+    <string name="loancalculator_description">Simple Loan Calculator annuity payments with extra payments</string>
+</resources>
